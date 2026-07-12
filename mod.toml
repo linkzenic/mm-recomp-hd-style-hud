@@ -1,0 +1,25 @@
+[manifest]
+id = "zz3ds_hud_controller"
+version = "0.9.0"
+display_name = "HD Style Controller HUD"
+description = """
+Adds an HD-style controller HUD for Zelda 64: Recompiled.
+
+Disable other controller mods before enabling this mod.
+"""
+short_description = "HD-style controller HUD."
+authors = [ "Linkzenic" ]
+game_id = "mm"
+minimum_recomp_version = "1.2.1"
+dependencies = [ "mm_recomp_interface_helper:1.1.0" ]
+native_libraries = []
+config_options = [
+    { id = "ab_layout", name = "A/B Layout", description = "Swaps the action and attack button positions in the HD-style diamond.", type = "Enum", options = [ "Action Left / Attack Down", "Attack Left / Action Down" ], default = "Action Left / Attack Down" },
+]
+
+[inputs]
+elf_path = "build/mod.elf"
+mod_filename = "zz3ds_hud_controller"
+func_reference_syms_file = "Zelda64RecompSyms/mm.us.rev1.syms.toml"
+data_reference_syms_files = [ "Zelda64RecompSyms/mm.us.rev1.datasyms.toml", "Zelda64RecompSyms/mm.us.rev1.datasyms_static.toml" ]
+additional_files = [ "NOTICE.txt", "thumb.png" ]

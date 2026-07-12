@@ -1,0 +1,359 @@
+{
+    "configuration": {
+        "autoPath": "rt64",
+        "configurationVersion": 3,
+        "hashVersion": 5,
+        "defaultOperation": "stream",
+        "defaultShift": "none"
+    },
+    "textures": [
+        {
+            "hashes": {
+                "rt64": "202d1a4171a488e6"
+            },
+            "path": "textures/o2r/alt/icon_item_static_yar/gABtnSymbolTex"
+        },
+        {
+            "hashes": {
+                "rt64": "93f6c4fb71a8f6b9"
+            },
+            "path": "textures/o2r/alt/icon_item_static_yar/gBBtnSymbolTex"
+        },
+        {
+            "hashes": {
+                "rt64": "95e6209ea1a47dc8"
+            },
+            "path": "textures/o2r/alt/icon_item_static_yar/gCBtnSymbolsTex"
+        },
+        {
+            "hashes": {
+                "rt64": "94c532f0a6b9f743"
+            },
+            "path": "textures/o2r/alt/parameter_static/gButtonBackgroundTex"
+        },
+        {
+            "hashes": {
+                "rt64": "75886a1fee473e29"
+            },
+            "path": "textures/o2r/alt/parameter_static/gEmptyCDownArrowTex"
+        },
+        {
+            "hashes": {
+                "rt64": "6860f1636cc5de7a"
+            },
+            "path": "textures/o2r/alt/parameter_static/gEmptyCLeftArrowTex"
+        },
+        {
+            "hashes": {
+                "rt64": "6795736cb2d4857e"
+            },
+            "path": "textures/o2r/alt/parameter_static/gEmptyCRightArrowTex"
+        },
+        {
+            "hashes": {
+                "rt64": "4cf43b721756b4a0"
+            },
+            "path": "textures/o2r/alt/parameter_static/gMagicMeterEndTex"
+        },
+        {
+            "hashes": {
+                "rt64": "094b7dbf6dec7fb8"
+            },
+            "path": "textures/o2r/alt/parameter_static/gMagicMeterFillTex"
+        },
+        {
+            "hashes": {
+                "rt64": "09b58a62847933bc"
+            },
+            "path": "textures/o2r/alt/parameter_static/gMagicMeterMidTex"
+        },
+        {
+            "hashes": {
+                "rt64": "d5ea83168ac48706"
+            },
+            "path": "textures/zz3ds/action_labels/00_ATTACK"
+        },
+        {
+            "hashes": {
+                "rt64": "ea01bd8abc5ecc73"
+            },
+            "path": "textures/zz3ds/action_labels/01_CHECK"
+        },
+        {
+            "hashes": {
+                "rt64": "02156cacbba3d451"
+            },
+            "path": "textures/zz3ds/action_labels/02_ENTER"
+        },
+        {
+            "hashes": {
+                "rt64": "3402757106998c73"
+            },
+            "path": "textures/zz3ds/action_labels/03_RETURN"
+        },
+        {
+            "hashes": {
+                "rt64": "a3445ac35f1c3379"
+            },
+            "path": "textures/zz3ds/action_labels/04_OPEN"
+        },
+        {
+            "hashes": {
+                "rt64": "d103764a6b126211"
+            },
+            "path": "textures/zz3ds/action_labels/05_JUMP"
+        },
+        {
+            "hashes": {
+                "rt64": "f5f62684a30bb2d5"
+            },
+            "path": "textures/zz3ds/action_labels/06_DECIDE"
+        },
+        {
+            "hashes": {
+                "rt64": "28de475d9708b6bb"
+            },
+            "path": "textures/zz3ds/action_labels/07_DIVE"
+        },
+        {
+            "hashes": {
+                "rt64": "9928259417175505"
+            },
+            "path": "textures/zz3ds/action_labels/08_FASTER"
+        },
+        {
+            "hashes": {
+                "rt64": "51d5343719198446"
+            },
+            "path": "textures/zz3ds/action_labels/09_THROW"
+        },
+        {
+            "hashes": {
+                "rt64": "28b6b4b3cc5df850"
+            },
+            "path": "textures/zz3ds/action_labels/10_NONE"
+        },
+        {
+            "hashes": {
+                "rt64": "5d4d03e451e43c57"
+            },
+            "path": "textures/zz3ds/action_labels/11_CLIMB"
+        },
+        {
+            "hashes": {
+                "rt64": "e0e4696bc01ce31f"
+            },
+            "path": "textures/zz3ds/action_labels/12_DROP"
+        },
+        {
+            "hashes": {
+                "rt64": "5c4fc5570163ce02"
+            },
+            "path": "textures/zz3ds/action_labels/13_DOWN"
+        },
+        {
+            "hashes": {
+                "rt64": "67c6381c87860272"
+            },
+            "path": "textures/zz3ds/action_labels/14_QUIT"
+        },
+        {
+            "hashes": {
+                "rt64": "2a8791d8755b403d"
+            },
+            "path": "textures/zz3ds/action_labels/15_SPEAK"
+        },
+        {
+            "hashes": {
+                "rt64": "d7726d27a7e4f1f6"
+            },
+            "path": "textures/zz3ds/action_labels/16_NEXT"
+        },
+        {
+            "hashes": {
+                "rt64": "18ffb5594b3489fd"
+            },
+            "path": "textures/zz3ds/action_labels/17_GRAB"
+        },
+        {
+            "hashes": {
+                "rt64": "f0e7340854b0794e"
+            },
+            "path": "textures/zz3ds/action_labels/18_STOP"
+        },
+        {
+            "hashes": {
+                "rt64": "65854ebd109b5738"
+            },
+            "path": "textures/zz3ds/action_labels/19_PUTAWAY"
+        },
+        {
+            "hashes": {
+                "rt64": "211b05ea2567b785"
+            },
+            "path": "textures/zz3ds/action_labels/20_REEL"
+        },
+        {
+            "hashes": {
+                "rt64": "dd015242c3e83a1e"
+            },
+            "path": "textures/zz3ds/action_labels/21_INFO"
+        },
+        {
+            "hashes": {
+                "rt64": "003323d15bfa0ff8"
+            },
+            "path": "textures/zz3ds/action_labels/22_WARP"
+        },
+        {
+            "hashes": {
+                "rt64": "dfa0d55dbd9a1d95"
+            },
+            "path": "textures/zz3ds/action_labels/23_SNAP"
+        },
+        {
+            "hashes": {
+                "rt64": "4103105a8c5e0bdf"
+            },
+            "path": "textures/zz3ds/action_labels/24_EXPLODE"
+        },
+        {
+            "hashes": {
+                "rt64": "c71a6401469ae70c"
+            },
+            "path": "textures/zz3ds/action_labels/25_DANCE"
+        },
+        {
+            "hashes": {
+                "rt64": "4f0819ff77dafa06"
+            },
+            "path": "textures/zz3ds/action_labels/26_MARCH"
+        },
+        {
+            "hashes": {
+                "rt64": "85ce28f1feb82313"
+            },
+            "path": "textures/zz3ds/action_labels/27_1"
+        },
+        {
+            "hashes": {
+                "rt64": "486f078787152d2c"
+            },
+            "path": "textures/zz3ds/action_labels/28_2"
+        },
+        {
+            "hashes": {
+                "rt64": "db42aeb2b37c1f3e"
+            },
+            "path": "textures/zz3ds/action_labels/29_3"
+        },
+        {
+            "hashes": {
+                "rt64": "d1771abf2608122a"
+            },
+            "path": "textures/zz3ds/action_labels/30_4"
+        },
+        {
+            "hashes": {
+                "rt64": "e0d0fa6682aa242c"
+            },
+            "path": "textures/zz3ds/action_labels/31_5"
+        },
+        {
+            "hashes": {
+                "rt64": "d02834d502ebd3d6"
+            },
+            "path": "textures/zz3ds/action_labels/32_6"
+        },
+        {
+            "hashes": {
+                "rt64": "100734543301644c"
+            },
+            "path": "textures/zz3ds/action_labels/33_7"
+        },
+        {
+            "hashes": {
+                "rt64": "a84eafe1f8776fd8"
+            },
+            "path": "textures/zz3ds/action_labels/34_8"
+        },
+        {
+            "hashes": {
+                "rt64": "8e547a29f19eef31"
+            },
+            "path": "textures/zz3ds/action_labels/35_CURL"
+        },
+        {
+            "hashes": {
+                "rt64": "4273bfedf3c93e0e"
+            },
+            "path": "textures/zz3ds/action_labels/36_SURFACE"
+        },
+        {
+            "hashes": {
+                "rt64": "b501fbf1d3e915a5"
+            },
+            "path": "textures/zz3ds/action_labels/37_SWIM"
+        },
+        {
+            "hashes": {
+                "rt64": "820fce7b775f4268"
+            },
+            "path": "textures/zz3ds/action_labels/38_PUNCH"
+        },
+        {
+            "hashes": {
+                "rt64": "2513305e66717ecf"
+            },
+            "path": "textures/zz3ds/action_labels/39_POUND"
+        },
+        {
+            "hashes": {
+                "rt64": "75d6533930eb2a76"
+            },
+            "path": "textures/zz3ds/action_labels/40_HOOK"
+        },
+        {
+            "hashes": {
+                "rt64": "dcd502fab89bf531"
+            },
+            "path": "textures/zz3ds/action_labels/41_SHOOT"
+        },
+        {
+            "hashes": {
+                "rt64": "0d9af1c661054461"
+            },
+            "path": "textures/zz3ds/action_labels/00_ATTACK"
+        },
+        {
+            "hashes": {
+                "rt64": "bea826d69aa31eff"
+            },
+            "path": "textures/zz3ds/action_labels/03_RETURN"
+        },
+        {
+            "hashes": {
+                "rt64": "1bd282644d9713e7"
+            },
+            "path": "textures/zz3ds/action_labels/03_RETURN"
+        },
+        {
+            "hashes": {
+                "rt64": "85b8adc402814414"
+            },
+            "path": "textures/zz3ds/action_labels/12_DROP"
+        },
+        {
+            "hashes": {
+                "rt64": "0e4f167483b52c27"
+            },
+            "path": "textures/zz3ds/action_labels/12_DROP"
+        },
+        {
+            "hashes": {
+                "rt64": "dcf5512bf726f06e"
+            },
+            "path": "textures/zz3ds/action_labels/12_DROP"
+        }
+    ]
+}

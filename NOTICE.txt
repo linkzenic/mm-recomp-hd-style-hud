@@ -1,0 +1,8 @@
+3DS HUD Controller
+
+This mod uses the public Interface Helper API pattern from:
+- Interface Helper by tomtee
+- Modern Controller Overhaul by tomtee
+
+Those projects are distributed under CC0 1.0 Universal. This mod depends on
+Interface Helper at runtime rather than modifying Zelda64 Recompiled itself.
