@@ -25,4 +25,7 @@ This mod uses the public Interface Helper API pattern from:
 
 - Interface Helper by tomtee
 
+As well as modified code and inspiration from: 
+- Modern Controller Overhaul by tomtee
+
 This mod depends on Interface Helper at runtime.
