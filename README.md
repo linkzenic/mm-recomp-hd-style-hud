@@ -1,6 +1,6 @@
 # HD Style Controller HUD
 
-This Recomp mod updates the in-game controller HUD for Zelda 64: Recompiled with a cleaner modern button layout and refreshed action text.
+This Recomp mod updates the in-game controller HUD for Zelda 64: Recompiled with a clean modern "HD Style" (a reference to TPHD and WWHD) button layout and refreshed action text.
 
 The mod depends on Interface Helper and is not compatible with other controller HUD mods. Disable other controller mods before enabling this mod.
 
