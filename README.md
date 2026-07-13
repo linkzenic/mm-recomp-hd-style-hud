@@ -6,7 +6,7 @@ The mod depends on Interface Helper and is not compatible with other controller 
 
 ## Features
 
-- HD style A/B/C button layout.
+- HD style A/B/C button layout suitable for modern controllers.
 - Optional action/attack layout swap.
 - Modern controller button glyphs.
 - Updated action text font.
@@ -25,7 +25,5 @@ This repository contains the source mod code and RT64 texture package. To rebuil
 This mod uses the public Interface Helper API pattern from:
 
 - Interface Helper by tomtee
-- Inspiration and Modern Controller Overhaul by tomtee
 
-Those projects are distributed under CC0 1.0 Universal. 
 This mod depends on Interface Helper at runtime.
