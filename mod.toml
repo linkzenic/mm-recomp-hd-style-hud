@@ -14,7 +14,7 @@ minimum_recomp_version = "1.2.1"
 dependencies = [ "mm_recomp_interface_helper:1.1.0" ]
 native_libraries = []
 config_options = [
-    { id = "ab_layout", name = "A/B Layout", description = "Swaps the action and attack button positions in the HD-style diamond.", type = "Enum", options = [ "Action Left / Attack Down", "Attack Left / Action Down" ], default = "Action Left / Attack Down" },
+    { id = "ab_layout", name = "A/B Layout", description = "Selects the action and attack positions in the HD-style diamond.", type = "Enum", options = [ "Action Left / Attack Down", "Attack Left / Action Down", "Attack Down / Action Right (Nintendo)" ], default = "Action Left / Attack Down" },
 ]
 
 [inputs]

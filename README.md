@@ -7,7 +7,7 @@ The mod depends on Interface Helper and is not compatible with other controller 
 ## Features
 
 - HD style A/B/C button layout and glyphs suitable for modern controllers.
-- Optional action/attack layout swap.
+- Three action/attack layouts, including standard Nintendo placement.
 - Updated action text font.
 - RT64 texture replacements bundled in the release package.
 
@@ -18,6 +18,13 @@ Download the latest `.nrm` from the GitHub Releases page and place it in your Ze
 ## Building
 
 This repository contains the source mod code and RT64 texture package. To rebuild the code module, use the same Recomp mod toolchain used by Zelda 64: Recompiled.
+
+The R-button cap is checked in as a generated asset. To regenerate it after editing its shape:
+
+```sh
+python3 -m pip install -r requirements-dev.txt
+python3 tools/generate_r_button_cap.py
+```
 
 ## Credits
 
