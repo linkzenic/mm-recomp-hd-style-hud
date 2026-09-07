@@ -1,6 +1,6 @@
 [manifest]
 id = "zz3ds_hud_controller"
-version = "0.10.0"
+version = "1.0.0"
 display_name = "HD Style Controller HUD"
 description = """
 Adds an HD-style controller HUD for Zelda 64: Recompiled.
